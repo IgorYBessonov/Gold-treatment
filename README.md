@@ -1,1 +1,3 @@
-# Gold-treatment
+# YandexPraktikum projects
+
+## Gold treatment
