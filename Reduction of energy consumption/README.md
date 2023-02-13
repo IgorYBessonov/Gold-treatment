@@ -2,9 +2,9 @@
 [HTML](ссылка) [ipynb](ссылка)
 
 ## Project description `Описание проекта`
-It is required to prepare a prototype of a machine learning model that should predict the recovery rate of gold from gold-bearing ore based on data with extraction and purification parameters. The model will help optimize production and helps not to launch an enterprise with unprofitable characteristics. The project was provided by the company "Zyfra" 
+It is required to prepare a prototype of a machine learning model in order to reduce electricity consumption at the steel processing stage. The model should predict the temperature of the steel. This will help to optimize production costs. The customer is a metallurgical plant.
 
-`Требуется подготовить прототип модели машинного обучения, которая должна предсказать коэффициент восстановления золота из золотосодержащей руды на основе данных с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками. Проект предоставлен компанией "Цифра"` [Zyfra WebSite](https://www.zyfra.com/)
+`Требуется подготовить прототип модели машинного обучения, чтобы уменьшить потребление электроэнергии на этапе обработки стали. Модель должна предсказывать температуру стали. Это поможет оптимизировать производственные расходы. Заказчик - металлургический комбинат.`
 
 ## Skills and tools `Навыки и инструменты`
 * pandas
@@ -25,7 +25,7 @@ It is required to prepare a prototype of a machine learning model that should pr
 
 
 ## General conclusion `Общий вывод`
-The selected models were trained for the stages of coarse and fine cleaning, the selected trained models were tested on a test set and one was selected for production 
+____ 
 
-`Было проведено обучение выбранных моделей для стадий грубой и тонкой очистки, проведена проверка выбранных обученных моделей на тестовом наборе и выбрана одна для запуска в производство.`
+`____`
 
