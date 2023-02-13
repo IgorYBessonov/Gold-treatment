@@ -1,5 +1,5 @@
 # Improving the gold enrichment process `Улучшение процесса обогащения золота`
-[HTML](ссылка) [ipynb](https://github.com/IgorYBessonov/Portfolio/blob/main/Project_Gold%20treatment/Gold%20treatment.ipynb)
+[HTML](ссылка) [ipynb](https://github.com/IgorYBessonov/Portfolio/blob/main/Project_Gold%20treatment/Gold%20treatment_RUS.ipynb)
 
 ## Project description `Описание проекта`
 It is required to prepare a prototype of a machine learning model that should predict the recovery rate of gold from gold-bearing ore based on data with extraction and purification parameters. The model will help optimize production and helps not to launch an enterprise with unprofitable characteristics. The project was provided by the company "Zyfra" 
