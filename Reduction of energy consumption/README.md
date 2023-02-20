@@ -25,7 +25,8 @@ It is required to prepare a prototype of a machine learning model in order to re
 
 
 ## General conclusion `Общий вывод`
-____ 
+Research data analysis and data preprocessing were carried out. New features have been prepared for machine learning purposes. MAE (average absolute error) was chosen as the metric.Three models were trained. The CatBoost model was selected for testing on a test sample. The results of the model were compared with the constant DummyRegressor model. 
 
-`____`
+`В ходе проекта были исследованы данные, проведена предобратка данных. Для целей машинного обучения были подготовлены новые признаки. В качестве метрики была выбрана МАЕ (средняя абсолютная ошибка).Были обучены три модели. Для проверки на тестовой выборке была выбрана модель CatBoost. Результаты модели сравненили с константной моделью DummyRegressor.`
+
 
