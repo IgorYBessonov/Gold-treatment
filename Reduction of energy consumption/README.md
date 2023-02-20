@@ -14,13 +14,13 @@ It is required to prepare a prototype of a machine learning model in order to re
 
 * sklearn.metrics.**mean_absolute_error** 
 * sklearn.metrics.**make_scorer**
+* sklearn.preprocessing.**StandardScaler**
 * sklearn.model_selection.**cross_val_score**
 * sklearn.linear_model.**LinearRegression**
 * sklearn.tree.**DecisionTreeRegressor**
-* sklearn.ensemble.**RandomForestRegressor**
+* sklearn.ensemble.**CatBoostRegressor**
 * sklearn.dummy.**Dummy Regressor**
 * sklearn.model_selection.**GridSearchCV**
-* customized metrics
 * research data analysis
 
 
