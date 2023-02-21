@@ -1,5 +1,5 @@
 # Choosing the best machine learning model to reduce power consumption at the steel processing stage `Выбор лучшей модели машинного обучения для уменьшения потребления электроэнергии на этапе обработки стали`
-[HTML](ссылка) [ipynb](ссылка)
+[ipynb_ENG] [ipynb_RUS](https://github.com/IgorYBessonov/Portfolio/blob/main/Reduction%20of%20energy%20consumption/Reduction%20of%20energy%20cons_RUS.ipynb)
 
 ## Project description `Описание проекта`
 It is required to prepare a prototype of a machine learning model in order to reduce electricity consumption at the steel processing stage. The model should predict the temperature of the steel. This will help to optimize production costs. The customer is a metallurgical plant.
